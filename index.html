@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Developer Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="header">
+            <h1>GitHub Developer Analyzer</h1>
+
+            <button id="themeBtn">
+                🌙 Dark Mode
+            </button>
+        </div>
+
+        <div class="search-box">
+            <input type="text"
+                id="username"
+                placeholder="Enter GitHub Username">
+
+            <button onclick="searchUser()">
+                Search
+            </button>
+        </div>
+
+        <div id="loading"></div>
+
+        <div id="profile"></div>
+
+        <input type="text"
+            id="repoSearch"
+            placeholder="Search Repository..."
+            onkeyup="filterRepos()">
+
+        <div id="repos"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
