@@ -40,26 +40,21 @@ GitHub-Developer-Analyzer/
 6. View the developer profile and repositories.
 
 ## 📸 Screenshots
+## Home Page
 
-### Home Page
+![Home](screenshots/home.png)
 
+## Search GitHub User
 
+![Search](screenshots/search.png)
 
-### Search GitHub User
+## Developer Profile
 
-(Add Screenshot Here)
+![Profile](screenshots/profile.png)
 
-### Developer Profile
+## Dark Mode
 
-(Add Screenshot Here)
-
-### Repository List
-
-(Add Screenshot Here)
-
-### Dark Mode
-
-(Add Screenshot Here)
+![Dark Mode](screenshots/darkmode.png)
 
 ## 📚 Learning Outcomes
 
