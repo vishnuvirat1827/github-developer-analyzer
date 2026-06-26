@@ -42,19 +42,20 @@ GitHub-Developer-Analyzer/
 ## 📸 Screenshots
 ## Home Page
 
-![Home](screenshots/home.png)
+<img width="1920" height="1020" alt="Screenshot 2026-06-26 123829" src="https://github.com/user-attachments/assets/fb102642-00e6-491d-bd51-a0e189c6a838" />
+
 
 ## Search GitHub User
 
-![Search](screenshots/search.png)
+<img width="1920" height="1020" alt="Screenshot 2026-06-26 123100" src="https://github.com/user-attachments/assets/13458060-edab-4d12-a709-8754f03b6b74" />
+
 
 ## Developer Profile
 
-![Profile](screenshots/profile.png)
+<img width="1920" height="1020" alt="Screenshot 2026-06-26 123157" src="https://github.com/user-attachments/assets/15eac176-b249-4676-9600-dd1d3e458abe" />
 
-## Dark Mode
 
-![Dark Mode](screenshots/darkmode.png)
+
 
 ## 📚 Learning Outcomes
 
